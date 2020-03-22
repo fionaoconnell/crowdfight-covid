@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## My skills / expertise for crowdfightcovid19
 
-You can use the [editor on GitHub](https://github.com/fionaoconnell/crowdfight-covid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! This was the quickest way I could think of to put a summary of my skills and how I might be able to help with tasks for crowdfightcovid19. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Fiona O'Connell, undergrad CS major @ UChicago
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### what I might be able to help with:
 
-```markdown
-Syntax highlighted code block
+My programming strength is mostly in writing fairly low-level C code, but I have some familiarity with ML concepts and doing basic modeling/regressions in python. I'm probably best equipped to do the time consuming tasks dealing with data that don't require high levels of expertise, but I have some other skills that might be helpful (listed below). I'm more than happy to do tedious tasks for a good cause, and I enjoy figuring out how to communicate technical information to a non-technical audience. I'm also pretty good at copy-editing (and making writing sound good). 
 
-# Header 1
-## Header 2
-### Header 3
+### relevant experience and research teams I could (probably) connect someone to:
 
-- Bulleted
-- List
+A few years back, I did a project modeling and predicting the number of influenza cases (in real time) by how often people were searching for flu related terms. This basically involved wrangling CDC flu incidence data and Google trends data, and then modeling in python using scikit learn, pandas, and other standard packages. I was mentored on this project by a small team of computational epidemiology researchers at Los Alamos National Labs (Reid Priedhorsky, Ashlynn Daughton, and Dave Osthus), and I could help make a connection there if someone needed!
 
-1. Numbered
-2. List
+That paper: 
+[Estimating influenza incidence using search query deceptiveness and generalized ridge regression] (https://doi.org/10.1371/journal.pcbi.1007165)
 
-**Bold** and _Italic_ and `Code` text
+I also worked on a human computer interaction project on decision making with the GroupLens research group at the University of Minnesota, and could make a connection there as well. My experience from that involved manually going through and classifying and summarizing very large numbers of survey responses, designing survey questions, and editing/copy editing for technical and non technical audiences.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fionaoconnell/crowdfight-covid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That paper: 
+[Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders] (https://doi.org/10.1145/3290605.3300789)
