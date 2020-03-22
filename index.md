@@ -14,9 +14,9 @@ My programming strength is mostly in writing fairly low-level C code, but I have
 A few years back, I did a project modeling and predicting the number of influenza cases (in real time) by how often people were searching for flu related terms. This basically involved wrangling CDC flu incidence data and Google trends data, and then modeling in python using scikit learn, pandas, and other standard packages. I was mentored on this project by a small team of computational epidemiology researchers at Los Alamos National Labs (Reid Priedhorsky, Ashlynn Daughton, and Dave Osthus), and I could help make a connection there if someone needed!
 
 That paper: 
-[Estimating influenza incidence using search query deceptiveness and generalized ridge regression] (https://doi.org/10.1371/journal.pcbi.1007165)
+[Estimating influenza incidence using search query deceptiveness and generalized ridge regression}(https://doi.org/10.1371/journal.pcbi.1007165)
 
 I also worked on a human computer interaction project on decision making with the GroupLens research group at the University of Minnesota, and could make a connection there as well. My experience from that involved manually going through and classifying and summarizing very large numbers of survey responses, designing survey questions, and editing/copy editing for technical and non technical audiences.
 
 That paper: 
-[Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders] (https://doi.org/10.1145/3290605.3300789)
+[Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders}(https://doi.org/10.1145/3290605.3300789)
